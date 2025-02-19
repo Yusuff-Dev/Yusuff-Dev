@@ -1,3 +1,4 @@
+<div><img src="./img/banner.jpg" alt="banner image"></div>
 <h1>Hi 👋, I'm Yusuf</h1>
     <h3>
       A passionate frontend developer and UX/UI designer from Andijan Uzbekistan
