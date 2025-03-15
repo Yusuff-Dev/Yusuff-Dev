@@ -1,5 +1,6 @@
 <h1>Hi! I'm Yusuf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 /></h1>
 <h2>A passionate frontend developer and UX/UI designer from Andijan Uzbekistan</h2>
+<h2>🔍 Where to find me</h2>
 <div align="center">
   <a target="_blank" href="https://t.me/as_introvert">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
@@ -140,10 +141,6 @@
           width="42"
           height="42"
       /></a>
-    </p>
-    <h2>⚡️ Where to find me</h2>
-    <p>
-      dfasdf
     </p>
     <p>
       <img
