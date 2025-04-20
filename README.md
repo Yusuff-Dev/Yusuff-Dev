@@ -19,6 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Yusuff-Dev&style=flat-square&color=blue" alt="Profiel Views"/>
 </div>
 <h2>🛠️ Languages and Tools</h2>
+<img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="banner"/>
     <p>
       <a
         target="_blank"
